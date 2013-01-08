@@ -1,8 +1,8 @@
-# Maintainer: Eivind Uggedal <eivind@uggedal.com>
-# Contributor: Bruno Vieira <mail@bmpvieira.com>
+# Maintainer: Bruno Vieira <mail@bmpvieira.com>
+# Contributor: Eivind Uggedal <eivind@uggedal.com>
 
 pkgname=phantomjs-git
-pkgver=20121223
+pkgver=20130108
 pkgrel=1
 pkgdesc="Headless WebKit with JavaScript API"
 url="http://www.phantomjs.org/"
